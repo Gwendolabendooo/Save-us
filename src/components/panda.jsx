@@ -36,7 +36,7 @@ class panda extends React.Component {
                         <FontAwesomeIcon className="paddd" icon={['fas', 'ruler']} /> 1,2/2 m <FontAwesomeIcon className="paddd" icon={['fas', 'balance-scale']} /> 70/100 kg <FontAwesomeIcon className="paddd" icon={['fas', 'restroom']} /> 1 000 <FontAwesomeIcon className="paddd" icon={['fas', 'heartbeat']} /> 25 ans
                     </div>
                     <div className="disparition">
-                            <audio ref="audio_tag" src="https://api.coderrocketfuel.com/assets/pomodoro-times-up.mp3" controls/>
+                            <audio ref="audio_tag" src="https://raw.githubusercontent.com/Gwendolabendooo/sonsAnimaux/master/1100838-Grognement_de_panda.mp3" controls/>
                     </div>
                 </div>
                 <iframe width="560" className="ana" height="315" src="https://www.youtube.com/embed/dqT-UlYlg1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

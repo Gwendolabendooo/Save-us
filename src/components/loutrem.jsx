@@ -36,7 +36,7 @@ class loutrem extends React.Component {
                         <FontAwesomeIcon className="paddd" icon={['fas', 'ruler']} /> 1,5 m <FontAwesomeIcon className="paddd" icon={['fas', 'balance-scale']} /> 22/45 kg <FontAwesomeIcon className="paddd" icon={['fas', 'restroom']} /> 2 000 <FontAwesomeIcon className="paddd" icon={['fas', 'heartbeat']} /> 15/20 ans
                     </div>
                     <div className="disparition">
-                            <audio ref="audio_tag" src="https://api.coderrocketfuel.com/assets/pomodoro-times-up.mp3" controls/>
+                            <audio ref="audio_tag" src="https://raw.githubusercontent.com/Gwendolabendooo/sonsAnimaux/master/cri-dune-loutre.mp3" controls/>
                     </div>
                 </div>
                 <iframe width="560" height="315" className="ana" src="https://www.youtube.com/embed/Tj1hLS8AGDw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

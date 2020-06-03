@@ -36,7 +36,7 @@ class requin extends React.Component {
                         <FontAwesomeIcon className="paddd" icon={['fas', 'ruler']} /> 3/6 m <FontAwesomeIcon className="paddd" icon={['fas', 'balance-scale']} /> 500/1000 kg <FontAwesomeIcon className="paddd" icon={['fas', 'restroom']} /> ?? <FontAwesomeIcon className="paddd" icon={['fas', 'heartbeat']} /> 70 ans
                     </div>
                     <div className="disparition">
-                            <audio ref="audio_tag" src="https://api.coderrocketfuel.com/assets/pomodoro-times-up.mp3" controls/>
+                            <audio ref="audio_tag" src="" controls/>
                     </div>
                 </div>
                 <iframe width="560" height="315" className="ana" src="https://www.youtube.com/embed/N4Gd1FBzfN0?start=5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -43,7 +43,7 @@ class australie extends React.Component {
                         <a href="/Elephant" className="linkbeast">
                             <div className="sombre"></div>
                             <div className="titleImg2">
-                                L'elephant
+                                L'éléphant
                             </div>
                         </a>
                     </div>

@@ -36,7 +36,7 @@ class baleine extends React.Component {
                         <FontAwesomeIcon className="paddd" icon={['fas', 'ruler']} /> 30 m <FontAwesomeIcon className="paddd" icon={['fas', 'balance-scale']} /> 170 tonnes <FontAwesomeIcon className="paddd" icon={['fas', 'restroom']} /> 10 000 <FontAwesomeIcon className="paddd" icon={['fas', 'heartbeat']} /> 90 ans
                     </div>
                     <div className="disparition">
-                            <audio ref="audio_tag" src="https://api.coderrocketfuel.com/assets/pomodoro-times-up.mp3" controls/>
+                            <audio ref="audio_tag" src="https://raw.githubusercontent.com/Gwendolabendooo/sonsAnimaux/master/1101508-Cri_de_baleine_a_bosse.mp3" controls/>
                     </div>
                 </div>
                 <iframe width="560" height="315" className="ana" src="https://www.youtube.com/embed/-TRwh0vPquU?start=5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

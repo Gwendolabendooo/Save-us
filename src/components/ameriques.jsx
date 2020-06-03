@@ -43,7 +43,7 @@ class ameriques extends React.Component {
                         <a href="/Singe" className="linkbeast">
                             <div className="sombre"></div>
                             <div className="titleImg2">
-                                Le Singe araignée à tête brune
+                                Le Singe-araignée à tête brune
                             </div>
                         </a>
                     </div>

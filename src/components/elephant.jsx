@@ -28,7 +28,7 @@ class elephant extends React.Component {
         return (
             <div className="backBeast5">
                 <h2>
-                    L'elephant
+                    L'éléphant
                 </h2>
                 <div className="ficheprdtt">
                     <div className="descAnim">Les éléphants sont les plus grands animaux terrestres vivant actuellement : l'éléphant d'Afrique mesure en moyenne 4 mètres de haut (à l'épaule) et pèse environ 6 tonnes, pour le mâle (contre 4 chez la femelle). Ce sont des mammifères herbivores à la peau très épaisse. Au cours des 3 dernières générations, la population des éléphants aurait chuté de 50%.</div>
@@ -36,7 +36,7 @@ class elephant extends React.Component {
                         <FontAwesomeIcon className="paddd" icon={['fas', 'ruler']} /> 5/6 m <FontAwesomeIcon className="paddd" icon={['fas', 'balance-scale']} /> 5 000 kg <FontAwesomeIcon className="paddd" icon={['fas', 'restroom']} /> 400 000 <FontAwesomeIcon className="paddd" icon={['fas', 'heartbeat']} /> 60/70 ans
                     </div>
                     <div className="disparition">
-                            <audio ref="audio_tag" src="https://api.coderrocketfuel.com/assets/pomodoro-times-up.mp3" controls/>
+                            <audio ref="audio_tag" src="https://raw.githubusercontent.com/Gwendolabendooo/sonsAnimaux/master/1100783-Barrissement_delephant.mp3" controls/>
                     </div>
                 </div>
                 <iframe width="560" className="ana" height="315" src="https://www.youtube.com/embed/-S11RxfW2mo?start=5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

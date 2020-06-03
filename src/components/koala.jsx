@@ -36,7 +36,7 @@ class oursPolaire extends React.Component {
                         <FontAwesomeIcon className="paddd" icon={['fas', 'ruler']} /> 80 cm <FontAwesomeIcon className="paddd" icon={['fas', 'balance-scale']} /> 10/15 kg <FontAwesomeIcon className="paddd" icon={['fas', 'restroom']} /> 43 000 <FontAwesomeIcon className="paddd" icon={['fas', 'heartbeat']} /> 13/18 ans
                     </div>
                     <div className="disparition">
-                            <audio ref="audio_tag" src="https://api.coderrocketfuel.com/assets/pomodoro-times-up.mp3" controls/>
+                            <audio ref="audio_tag" src="https://raw.githubusercontent.com/Gwendolabendooo/sonsAnimaux/master/cri-du-koala.mp3" controls/>
                     </div>
                 </div>
                 <iframe width="560" className="ana" height="315" src="https://www.youtube.com/embed/oI3ADcDH0Uc?start=5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

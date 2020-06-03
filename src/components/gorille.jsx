@@ -36,7 +36,7 @@ class gorille extends React.Component {
                         <FontAwesomeIcon className="paddd" icon={['fas', 'ruler']} /> 2 m <FontAwesomeIcon className="paddd" icon={['fas', 'balance-scale']} /> 150/300 kg <FontAwesomeIcon className="paddd" icon={['fas', 'restroom']} /> 5 000 <FontAwesomeIcon className="paddd" icon={['fas', 'heartbeat']} /> 30/50 ans
                     </div>
                     <div className="disparition">
-                            <audio ref="audio_tag" src="https://api.coderrocketfuel.com/assets/pomodoro-times-up.mp3" controls/>
+                            <audio ref="audio_tag" src="https://raw.githubusercontent.com/Gwendolabendooo/sonsAnimaux/master/SFB-gorille-3.mp3" controls/>
                     </div>
                 </div>
                 <iframe width="560" className="ana" height="315" src="https://www.youtube.com/embed/fWZdB128KOQ?start=5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

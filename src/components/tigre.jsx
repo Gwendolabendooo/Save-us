@@ -36,7 +36,7 @@ class tigre extends React.Component {
                         <FontAwesomeIcon className="paddd" icon={['fas', 'ruler']} /> 2/3 m <FontAwesomeIcon className="paddd" icon={['fas', 'balance-scale']} /> 140/200 kg <FontAwesomeIcon className="paddd" icon={['fas', 'restroom']} /> 1 000 <FontAwesomeIcon className="paddd" icon={['fas', 'heartbeat']} /> 15 ans
                     </div>
                     <div className="disparition">
-                            <audio ref="audio_tag" src="https://api.coderrocketfuel.com/assets/pomodoro-times-up.mp3" controls/>
+                            <audio ref="audio_tag" src="https://raw.githubusercontent.com/Gwendolabendooo/sonsAnimaux/master/le-cri-du-tigre-magazine-touk-touk-bretagne-coree-du-sud.mp3" controls/>
                     </div>
                 </div>
                 <iframe width="560" height="315" className="ana" src="https://www.youtube.com/embed/GfKLJ3i_5p8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

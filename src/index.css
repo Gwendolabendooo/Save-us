@@ -260,29 +260,6 @@ nav .Alignrubrique a{
   margin-bottom: 20px;
 }
 
-.img-prdt1{
-  background-image: url(./Img/notes.PNG);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: 100px;
-}
-
-.img-prdt2{
-  background-image: url(./Img/calendar.PNG);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: 100px;
-}
-
-.img-prdt3{
-  background-image: url(./Img/agenda.PNG);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: 100px;
-}
 
 .on{
   background-color: #4CAF50;
@@ -444,13 +421,6 @@ audio{
   box-shadow: 6px 6px 10px rgba(164, 164, 164, 0.62), -6px -6px 10px #93939352;
 }
 
-.backImgS{
-  background-image: url(./Img/polar-white-bear-png-5a348c185ecf32.0296004015133931763883.jpg);
-  background-repeat:round;
-  background-size: cover;
-  width: 200px;
-  height: 150px;
-}
 
 .ana{
   position: absolute;

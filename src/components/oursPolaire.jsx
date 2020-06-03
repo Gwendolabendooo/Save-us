@@ -36,7 +36,7 @@ class oursPolaire extends React.Component {
                         <FontAwesomeIcon className="paddd" icon={['fas', 'ruler']} /> 2/3 m <FontAwesomeIcon className="paddd" icon={['fas', 'balance-scale']} /> 800 kg <FontAwesomeIcon className="paddd" icon={['fas', 'restroom']} /> 26 000 <FontAwesomeIcon className="paddd" icon={['fas', 'heartbeat']} /> 15/30 ans
                     </div>
                     <div className="disparition">
-                            <audio ref="audio_tag" src="https://api.coderrocketfuel.com/assets/pomodoro-times-up.mp3" controls/>
+                            <audio ref="audio_tag" src="https://raw.githubusercontent.com/Gwendolabendooo/sonsAnimaux/master/cri-ours-polaire.mp3" controls/>
                     </div>
                 </div>
                 <iframe width="560" height="315" className="ana" src="https://www.youtube.com/embed/tnnlOEAXOrk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

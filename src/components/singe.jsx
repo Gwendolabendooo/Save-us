@@ -31,12 +31,12 @@ class loutreg extends React.Component {
                     Le Singe-araignée à tête brune
                 </h2>
                 <div className="ficheprdtt">
-                    <div className="descAnim">Le singe araignée à tête brune est un singe social et grégaire. Les singes araignée à têtes brunes sont actifs en début de matinée et en fin de journée. Très agile, le primate saute d’arbres en arbres grâce à ses longues pattes et ne descend que très rarement au sol. On l’appelle singe araigné en raison de sa longue queue préhensile qui agit comme un cinquième membre.</div>
+                    <div className="descAnim">Le singe-araignée à tête brune est un singe social et grégaire. Les singe-araignées à têtes brunes sont actifs en début de matinée et en fin de journée. Très agile, le primate saute d’arbres en arbres grâce à ses longues pattes et ne descend que très rarement au sol. On l’appelle singe-araignée en raison de sa longue queue préhensile qui agit comme un cinquième membre.</div>
                     <div className="ctnMensuration">
                         <FontAwesomeIcon className="paddd" icon={['fas', 'ruler']} /> 50 cm <FontAwesomeIcon className="paddd" icon={['fas', 'balance-scale']} /> 5/8 kg <FontAwesomeIcon className="paddd" icon={['fas', 'restroom']} /> ?? <FontAwesomeIcon className="paddd" icon={['fas', 'heartbeat']} /> 15/20 ans
                     </div>
                     <div className="disparition">
-                            <audio ref="audio_tag" src="https://api.coderrocketfuel.com/assets/pomodoro-times-up.mp3" controls/>
+                            <audio ref="audio_tag" src="https://raw.githubusercontent.com/Gwendolabendooo/sonsAnimaux/master/1100742-Cri_datele_ou_singe-araignee.mp3" controls/>
                     </div>
                 </div>
                 <iframe width="560" height="315" className="ana" src="https://www.youtube.com/embed/K9NGG4CLCCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
