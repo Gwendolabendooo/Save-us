@@ -2,18 +2,9 @@ import React from 'react';
 import data from "../BDD.json";
 import { Link } from 'react-router-dom';
 
-import { library } from '@fortawesome/fontawesome-svg-core';
-import { faPlusSquare, faBookmark, faTimesCircle } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-
 class Body extends React.Component {
 
     render() {
-          library.add(
-            faPlusSquare,
-            faBookmark,
-            faTimesCircle
-        );
 
         function Pastille(props) {
           return <a href={props.link}><div className={props.class}></div></a>
