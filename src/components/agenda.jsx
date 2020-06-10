@@ -25,7 +25,9 @@ class Body extends React.Component {
                 </div>
               </div>
                 <div className="feuille">
-
+                  <a href="/Equipe" className="ctnctt">
+                    Qui sommes nous ?
+                  </a>
                 </div>
             </div>
         )  

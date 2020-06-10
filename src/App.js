@@ -35,6 +35,7 @@ import Panda from './views/Panda';
 import Tigre from './views/Tigre';
 import "animate.css/animate.min.css";
 import Axolotl from './views/Axolotl';
+import Contact from './views/Contact';
 
 function App() {
   return (
@@ -117,6 +118,9 @@ function App() {
           </Route>
           <Route exact path="/Tigre">
             <Tigre />
+          </Route>
+          <Route exact path="/Equipe">
+            <Contact />
           </Route>
         </Switch>
       </Router>
