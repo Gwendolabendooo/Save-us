@@ -1,5 +1,6 @@
 import Nav from '../components/nav';
 import Contact from '../components/contact';
+import Audio from '../components/audio';
 
 import React from 'react';
 
@@ -14,6 +15,7 @@ class contact extends React.Component {
             <body>
                 <Nav />
                 <Contact />
+                <Audio />
             </body>
         )
     }

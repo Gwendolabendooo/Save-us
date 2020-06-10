@@ -1,5 +1,6 @@
 import Nav from '../components/nav';
 import Agenda from '../components/agenda';
+import Audio from '../components/audio';
 
 import React from 'react';
 
@@ -14,6 +15,7 @@ class Index extends React.Component {
             <body>
                 <Nav />
                 <Agenda />
+                <Audio />
             </body>
         )
     }

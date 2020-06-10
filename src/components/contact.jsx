@@ -6,10 +6,6 @@ class contact extends React.Component {
 
     render() {
 
-        function Pastille(props) {
-          return <a href={props.link}><div className={props.class}></div></a>
-        }
-
         return (
             <div className="ctnContact">
                 <h2>

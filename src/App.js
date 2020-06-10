@@ -44,7 +44,7 @@ function App() {
           <Route exact path="/">
             <Index />
           </Route>
-          <Route exact path="/Agenda">
+          <Route exact path="/Carte-du-monde">
             <Agenda />
           </Route>
           <Route exact path="/Connexion">

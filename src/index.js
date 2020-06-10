@@ -7,9 +7,6 @@ import App from './App';
  
 // var precedent = 0;
 // var tier = window.innerHeight / 3;
-if (window.location == "http://localhost:3000/"){
-    window.alert("Merci d'appuyer sur F11 afin d'améliorer votre visite");
-}
 
 // function animation() {
 //     if (window.location == "http://localhost:3000/"){
